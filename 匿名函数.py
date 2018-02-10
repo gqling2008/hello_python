@@ -21,3 +21,6 @@ print(list(map(func,data)))
 new_data = list(range(10))
 print(list(map(lambda n:n*n,new_data)))
 
+sec_date = list(range(8))
+print(list(map(lambda n:n*n,sec_date)))
+
